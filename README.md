@@ -1,1 +1,2 @@
 # data-science-portfolio
+Este repositorio contiene una colección de proyectos desarrollados como parte de mi proceso de formación y consolidación en ciencia de datos. Cada notebook abarca un caso de uso específico, desde problemas clásicos de regresión y clasificación hasta series de tiempo y detección de anomalías, utilizando herramientas modernas como Python, Pandas, Scikit-learn, XGBoost y visualización con Matplotlib y Seaborn.
