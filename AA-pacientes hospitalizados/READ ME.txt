@@ -1,0 +1,52 @@
+# 📊 Análisis de Días de Hospitalización
+
+Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la duración de hospitalización de pacientes, utilizando técnicas de limpieza, visualización y análisis estadístico para identificar patrones y posibles áreas de mejora en la gestión hospitalaria.
+
+## 📌 Objetivos
+- Limpiar y estandarizar la columna `dias_hospitalizacion`.
+- Analizar la distribución de días de hospitalización.
+- Detectar posibles valores atípicos.
+- Proporcionar interpretaciones y conclusiones basadas en los datos.
+
+## 🗂 Contenido del repositorio
+- **`pacientes_hospitalizados_analisis_limpio.ipynb`** → Notebook con el flujo de análisis, limpieza de datos y visualizaciones.
+- **`pacientes_hospitalizados_con_dias.csv`** *(opcional, si se incluye)* → Dataset de ejemplo utilizado en el análisis.
+- **`README.md`** → Documento explicativo del proyecto.
+
+## 🛠 Tecnologías utilizadas
+- **Python 3**
+- **Pandas** → Manipulación y limpieza de datos.
+- **NumPy** → Operaciones numéricas.
+- **Matplotlib / Seaborn** → Visualización de datos.
+
+## 🔍 Flujo de trabajo
+1. **Importación de datos**  
+   Se carga el dataset y se realiza una inspección inicial para verificar estructura y calidad de los datos.
+   
+2. **Limpieza de datos**  
+   - Conversión de la columna `dias_hospitalizacion` a formato numérico.
+   - Eliminación de texto no necesario (por ejemplo, “días”).
+   - Manejo de valores nulos.
+   
+3. **Análisis exploratorio (EDA)**  
+   - Histogramas para ver la distribución de estancias.
+   - Boxplots para identificar valores atípicos.
+   - Gráfico de frecuencia acumulada.
+   
+4. **Conclusiones**  
+   Resumen de hallazgos clave sobre patrones de hospitalización y recomendaciones para análisis futuros.
+
+## 📈 Resultados destacados
+- La mayoría de las estancias se concentran entre 7 y 22 días.
+- No se detectan valores atípicos extremos.
+- La distribución es bastante uniforme, indicando diversidad de casos clínicos.
+
+## 🚀 Próximos pasos
+- Incorporar variables adicionales (edad, diagnóstico, unidad hospitalaria).
+- Implementar modelos predictivos para estimar duración de hospitalización.
+- Integrar análisis con herramientas de BI como Power BI o Tableau.
+
+## 👤 Autor
+**Sneider Rincón**  
+📧 sneider.rincon1992@gmail.com  
+📍 Medellín, Colombia  

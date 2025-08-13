@@ -1,0 +1,501 @@
+ID_Paciente,Nombre,Edad,Sexo,Diagnóstico,Días_Hospitalización,Unidad,Fecha_Ingreso,Seguro_Médico,Ciudad
+P0001,Ana,52,M,Diabetes,26 días,Cirugía,2024-04-23,Sí,Medellín
+P0002,Juan,93,M,Fractura,22 días,UCI,2024-01-08,No,Medellín
+P0003,Miguel,15,F,Hipertensión,dos días,Pediatría,2024-03-12,No,Cali
+P0004,Lucía,72,M,Diabetes,20 días,UCI,2024-06-26,No,Bogotá
+P0005,Lucía,61,M,Fractura,27 días,Urgencias,2024-04-01,No,Medellín
+P0006,Carlos,21,F,Diabetes,8 días,Pediatría,2024-03-02,No,Pasto
+P0007,Ana,83,F,Hipertensión,8 días,Cirugía,2024-03-24,Sí,Cali
+P0008,Andrés,87,M,Apendicitis,5 días,Urgencias,2024-03-02,No,Cali
+P0009,Ana,75,M,Apendicitis,N/A días,Pediatría,2024-04-20,Sí,Medellín
+P0010,Diana,75,M,Apendicitis,20 días,Cirugía,2024-05-06,Sí,Bogotá
+P0011,Luis,88,F,Apendicitis,3 días,Urgencias,2024-01-07,No,Pasto
+P0012,Juan,24,F,Neumonía,29 días,Urgencias,2024-03-24,No,Bogotá
+P0013,Juan,3,F,Apendicitis,7 días,Pediatría,2024-05-11,No,Barranquilla
+P0014,Ana,22,F,Hipertensión,13 días,Medicina Interna,2024-05-13,No,Barranquilla
+P0015,Lucía,53,M,Covid-19,8 días,Urgencias,2024-02-27,No,Medellín
+P0016,Lucía,2,F,Covid-19,cinco días,Urgencias,2024-01-22,Sí,Medellín
+P0017,Andrés,88,F,Neumonía,28 días,Cirugía,2024-06-02,No,Medellín
+P0018,Diana,30,F,Apendicitis,4 días,UCI,2024-05-06,No,Barranquilla
+P0019,Juan,38,F,Apendicitis,8 días,Pediatría,2024-01-03,Sí,Bogotá
+P0020,Andrés,2,F,Apendicitis,dos días,Pediatría,2024-05-06,Sí,Bogotá
+P0021,Lucía,64,M,Diabetes,18 días,Medicina Interna,2024-02-10,No,Medellín
+P0022,Andrés,60,M,Fractura,28 días,Medicina Interna,2024-04-15,Sí,Pasto
+P0023,Luis,21,F,Diabetes,N/A días,Pediatría,2024-01-14,No,Bogotá
+P0024,Lucía,33,M,Fractura,22 días,Medicina Interna,2024-01-12,Sí,Barranquilla
+P0025,Elena,76,F,Apendicitis,18 días,Cirugía,2024-03-27,Sí,Cali
+P0026,Diana,58,F,Apendicitis,25 días,Pediatría,2024-01-12,No,Cali
+P0027,Miguel,22,M,Diabetes,20 días,Medicina Interna,2024-05-20,Sí,Cali
+P0028,Juan,89,M,Diabetes,29 días,Pediatría,2024-01-25,Sí,Pasto
+P0029,Carlos,49,F,Fractura,27 días,UCI,2024-02-14,Sí,Medellín
+P0030,Luis,91,F,Covid-19,15 días,Urgencias,2024-05-01,Sí,Barranquilla
+P0031,Sara,59,F,Fractura,24 días,Pediatría,2024-05-26,Sí,Pasto
+P0032,Miguel,42,M,Diabetes,15 días,Urgencias,2024-02-24,Sí,Barranquilla
+P0033,Carlos,92,F,Hipertensión,8 días,Medicina Interna,2024-04-09,No,Barranquilla
+P0034,Lucía,60,F,Diabetes,9 días,Urgencias,2024-06-21,No,Medellín
+P0035,Sara,80,F,Hipertensión,17 días,Pediatría,2024-05-15,Sí,Cali
+P0036,Ana,15,M,Neumonía,8 días,UCI,2024-04-28,No,Medellín
+P0037,Ana,62,F,Diabetes,3 días,Medicina Interna,2024-02-22,No,Pasto
+P0038,Luis,62,F,Neumonía,8 días,Pediatría,2024-02-01,No,Pasto
+P0039,Ana,47,M,Covid-19,11 días,Medicina Interna,2024-02-20,Sí,Pasto
+P0040,Sara,62,F,Fractura,3 días,Cirugía,2024-02-13,No,Medellín
+P0041,Sara,51,F,Hipertensión,N/A días,Urgencias,2024-03-22,Sí,Barranquilla
+P0042,Diana,55,M,Fractura,5 días,Cirugía,2024-05-25,No,Barranquilla
+P0043,Miguel,64,F,Neumonía,3 días,Pediatría,2024-05-29,Sí,Bogotá
+P0044,Juan,3,M,Hipertensión,11 días,UCI,2024-02-06,Sí,Pasto
+P0045,Elena,51,M,Fractura,14 días,Medicina Interna,2024-04-05,No,Barranquilla
+P0046,Andrés,7,F,Diabetes,-1 días,Urgencias,2024-02-25,No,Bogotá
+P0047,Ana,21,F,Apendicitis,25 días,Medicina Interna,2024-04-14,Sí,Barranquilla
+P0048,Luis,73,F,Neumonía,23 días,Pediatría,2024-02-28,No,Pasto
+P0049,Ana,39,F,Fractura,-1 días,Medicina Interna,2024-05-10,No,Cali
+P0050,Andrés,18,M,Neumonía,12 días,Urgencias,2024-06-04,No,Pasto
+P0051,Miguel,4,F,Neumonía,13 días,Pediatría,2024-02-04,Sí,Medellín
+P0052,Diana,89,M,Hipertensión,27 días,Medicina Interna,2024-04-02,Sí,Barranquilla
+P0053,Sara,60,F,Hipertensión,24 días,UCI,2024-06-30,No,Barranquilla
+P0054,Diana,14,F,Apendicitis,26 días,Pediatría,2024-04-06,No,Medellín
+P0055,Lucía,9,F,Diabetes,8 días,Pediatría,2024-05-14,No,Medellín
+P0056,Ana,90,M,Neumonía,9 días,UCI,2024-03-16,Sí,Cali
+P0057,Juan,53,F,Fractura,1 días,Cirugía,2024-02-18,Sí,Barranquilla
+P0058,Lucía,2,F,Covid-19,22 días,Urgencias,2024-04-03,No,Barranquilla
+P0059,Miguel,84,F,Neumonía,13 días,Cirugía,2024-06-07,No,Cali
+P0060,Ana,92,F,Neumonía,27 días,Medicina Interna,2024-01-24,No,Bogotá
+P0061,Lucía,60,M,Apendicitis,5 días,UCI,2024-05-27,No,Cali
+P0062,Ana,71,F,Diabetes,18 días,Cirugía,2024-02-06,No,Pasto
+P0063,Luis,44,M,Covid-19,-1 días,Pediatría,2024-01-04,No,Barranquilla
+P0064,Miguel,8,M,Hipertensión,22 días,Medicina Interna,2024-04-17,Sí,Medellín
+P0065,Elena,47,M,Hipertensión,-1 días,Medicina Interna,2024-05-05,No,Pasto
+P0066,Sara,35,M,Fractura,0 días,Cirugía,2024-01-20,Sí,Barranquilla
+P0067,Carlos,78,M,Covid-19,N/A días,Cirugía,2024-05-31,No,Cali
+P0068,Sara,81,M,Hipertensión,7 días,UCI,2024-02-19,No,Pasto
+P0069,Sara,36,F,Fractura,11 días,Urgencias,2024-06-25,Sí,Barranquilla
+P0070,Lucía,50,M,Diabetes,13 días,Cirugía,2024-06-27,Sí,Bogotá
+P0071,Miguel,4,M,Fractura,27 días,Cirugía,2024-04-05,Sí,Bogotá
+P0072,Ana,2,M,Hipertensión,27 días,Pediatría,2024-04-14,Sí,Medellín
+P0073,Diana,6,F,Apendicitis,cinco días,Medicina Interna,2024-06-12,No,Barranquilla
+P0074,Carlos,54,F,Apendicitis,2 días,Urgencias,2024-04-26,Sí,Bogotá
+P0075,Andrés,4,M,Apendicitis,12 días,Pediatría,2024-04-07,No,Cali
+P0076,Lucía,54,F,Hipertensión,3 días,UCI,2024-03-06,Sí,Barranquilla
+P0077,Carlos,93,M,Apendicitis,21 días,UCI,2024-03-19,No,Cali
+P0078,Elena,63,M,Covid-19,cinco días,Cirugía,2024-06-10,No,Cali
+P0079,Luis,18,F,Diabetes,7 días,Cirugía,2024-06-12,No,Bogotá
+P0080,Miguel,90,M,Fractura,20 días,UCI,2024-01-06,No,Barranquilla
+P0081,Andrés,44,F,Fractura,N/A días,Cirugía,2024-02-08,No,Pasto
+P0082,Lucía,34,F,Hipertensión,4 días,Urgencias,2024-06-18,No,Bogotá
+P0083,Sara,74,M,Apendicitis,7 días,Cirugía,2024-04-24,Sí,Bogotá
+P0084,Juan,62,M,Apendicitis,9 días,Medicina Interna,2024-05-04,No,Barranquilla
+P0085,Lucía,14,F,Neumonía,6 días,Cirugía,2024-01-12,Sí,Barranquilla
+P0086,Juan,95,M,Diabetes,24 días,Pediatría,2024-05-10,Sí,Cali
+P0087,Sara,48,M,Covid-19,25 días,Urgencias,2024-01-18,No,Barranquilla
+P0088,Luis,15,M,Fractura,10 días,Pediatría,2024-02-09,Sí,Cali
+P0089,Miguel,72,F,Neumonía,cinco días,Pediatría,2024-01-21,No,Bogotá
+P0090,Ana,78,F,Neumonía,19 días,Medicina Interna,2024-05-22,Sí,Medellín
+P0091,Lucía,87,M,Hipertensión,13 días,Urgencias,2024-04-08,No,Pasto
+P0092,Diana,62,F,Fractura,23 días,Urgencias,2024-01-26,Sí,Bogotá
+P0093,Sara,40,F,Hipertensión,N/A días,Urgencias,2024-01-08,No,Barranquilla
+P0094,Lucía,85,F,Covid-19,N/A días,Urgencias,2024-04-09,No,Pasto
+P0095,Elena,80,F,Neumonía,20 días,Urgencias,2024-03-27,No,Medellín
+P0096,Luis,82,F,Neumonía,26 días,Medicina Interna,2024-02-11,No,Medellín
+P0097,Elena,53,M,Diabetes,26 días,Cirugía,2024-06-20,Sí,Cali
+P0098,Carlos,24,M,Covid-19,dos días,Pediatría,2024-01-14,No,Pasto
+P0099,Miguel,26,M,Neumonía,12 días,Urgencias,2024-03-18,Sí,Cali
+P0100,Carlos,89,F,Covid-19,-5 días,Cirugía,2024-01-02,Sí,Bogotá
+P0101,Lucía,60,F,Fractura,-1 días,Cirugía,2024-04-28,Sí,Pasto
+P0102,Andrés,41,M,Apendicitis,4 días,Pediatría,2024-02-06,No,Bogotá
+P0103,Andrés,29,F,Neumonía,12 días,Medicina Interna,2024-03-09,Sí,Cali
+P0104,Miguel,15,M,Diabetes,27 días,UCI,2024-06-14,Sí,Pasto
+P0105,Diana,45,M,Fractura,5 días,UCI,2024-02-10,Sí,Cali
+P0106,Luis,65,M,Covid-19,24 días,Cirugía,2024-03-02,No,Pasto
+P0107,Diana,89,F,Hipertensión,21 días,Pediatría,2024-02-29,No,Cali
+P0108,Luis,71,F,Fractura,26 días,UCI,2024-05-04,Sí,Medellín
+P0109,Sara,9,M,Neumonía,25 días,Cirugía,2024-04-20,No,Cali
+P0110,Lucía,88,M,Covid-19,14 días,Medicina Interna,2024-01-14,No,Medellín
+P0111,Carlos,1,M,Apendicitis,19 días,UCI,2024-03-24,Sí,Cali
+P0112,Andrés,8,M,Fractura,28 días,Cirugía,2024-05-09,Sí,Pasto
+P0113,Elena,88,F,Neumonía,30 días,Cirugía,2024-03-10,No,Pasto
+P0114,Ana,63,F,Diabetes,0 días,Urgencias,2024-05-24,Sí,Pasto
+P0115,Juan,11,M,Hipertensión,15 días,Medicina Interna,2024-05-02,No,Barranquilla
+P0116,Ana,81,M,Covid-19,22 días,Urgencias,2024-03-29,No,Bogotá
+P0117,Carlos,8,F,Fractura,1 días,Pediatría,2024-01-28,No,Pasto
+P0118,Carlos,35,F,Fractura,11 días,Urgencias,2024-03-06,No,Medellín
+P0119,Luis,35,M,Apendicitis,N/A días,Urgencias,2024-06-11,No,Pasto
+P0120,Diana,33,M,Apendicitis,9 días,UCI,2024-01-05,No,Barranquilla
+P0121,Ana,5,M,Diabetes,29 días,Cirugía,2024-06-16,Sí,Medellín
+P0122,Luis,41,F,Hipertensión,29 días,Medicina Interna,2024-06-12,Sí,Barranquilla
+P0123,Luis,28,F,Diabetes,1 días,Urgencias,2024-02-14,No,Medellín
+P0124,Diana,7,F,Neumonía,7 días,Medicina Interna,2024-05-30,No,Cali
+P0125,Elena,73,M,Neumonía,-1 días,Urgencias,2024-02-16,No,Bogotá
+P0126,Andrés,72,M,Diabetes,25 días,Pediatría,2024-01-31,Sí,Bogotá
+P0127,Miguel,12,F,Hipertensión,16 días,Urgencias,2024-05-18,No,Barranquilla
+P0128,Andrés,34,F,Diabetes,16 días,UCI,2024-01-10,Sí,Bogotá
+P0129,Juan,33,M,Hipertensión,1 días,Cirugía,2024-04-27,No,Barranquilla
+P0130,Ana,48,F,Hipertensión,N/A días,Pediatría,2024-01-14,No,Barranquilla
+P0131,Andrés,23,F,Covid-19,8 días,Urgencias,2024-03-20,Sí,Barranquilla
+P0132,Miguel,62,M,Hipertensión,19 días,Medicina Interna,2024-04-02,Sí,Bogotá
+P0133,Sara,88,F,Apendicitis,18 días,Pediatría,2024-01-10,No,Barranquilla
+P0134,Ana,37,M,Hipertensión,14 días,Pediatría,2024-03-16,No,Bogotá
+P0135,Miguel,99,M,Hipertensión,18 días,Urgencias,2024-04-03,No,Barranquilla
+P0136,Luis,44,M,Hipertensión,23 días,Pediatría,2024-04-14,Sí,Pasto
+P0137,Carlos,86,M,Neumonía,10 días,Medicina Interna,2024-01-01,Sí,Barranquilla
+P0138,Elena,91,M,Apendicitis,4 días,Pediatría,2024-05-12,Sí,Medellín
+P0139,Juan,35,M,Apendicitis,11 días,Medicina Interna,2024-01-20,Sí,Barranquilla
+P0140,Miguel,65,M,Diabetes,dos días,Urgencias,2024-01-08,Sí,Cali
+P0141,Andrés,99,F,Covid-19,23 días,Cirugía,2024-06-19,Sí,Barranquilla
+P0142,Carlos,47,M,Hipertensión,N/A días,Pediatría,2024-01-01,No,Medellín
+P0143,Andrés,78,M,Fractura,9 días,Cirugía,2024-02-26,No,Medellín
+P0144,Ana,3,F,Covid-19,25 días,Medicina Interna,2024-03-04,Sí,Bogotá
+P0145,Miguel,1,F,Covid-19,10 días,Pediatría,2024-04-27,No,Pasto
+P0146,Andrés,5,F,Apendicitis,27 días,UCI,2024-01-28,No,Barranquilla
+P0147,Diana,90,M,Covid-19,N/A días,Cirugía,2024-04-30,Sí,Bogotá
+P0148,Lucía,14,F,Hipertensión,10 días,Pediatría,2024-04-16,No,Pasto
+P0149,Carlos,27,M,Hipertensión,dos días,Cirugía,2024-06-13,Sí,Barranquilla
+P0150,Sara,9,M,Neumonía,cinco días,Pediatría,2024-06-23,Sí,Cali
+P0151,Carlos,79,M,Hipertensión,18 días,Urgencias,2024-06-13,No,Barranquilla
+P0152,Andrés,15,M,Hipertensión,5 días,Cirugía,2024-02-18,Sí,Medellín
+P0153,Andrés,90,F,Apendicitis,25 días,UCI,2024-04-29,Sí,Medellín
+P0154,Juan,42,F,Hipertensión,28 días,UCI,2024-02-13,Sí,Cali
+P0155,Diana,77,M,Neumonía,N/A días,Medicina Interna,2024-02-25,Sí,Bogotá
+P0156,Sara,51,M,Fractura,15 días,Pediatría,2024-06-04,Sí,Pasto
+P0157,Elena,63,M,Apendicitis,2 días,Cirugía,2024-04-20,Sí,Barranquilla
+P0158,Juan,96,F,Fractura,28 días,Medicina Interna,2024-05-13,Sí,Medellín
+P0159,Ana,52,M,Apendicitis,27 días,Cirugía,2024-04-17,Sí,Bogotá
+P0160,Sara,96,M,Diabetes,0 días,Pediatría,2024-05-27,No,Cali
+P0161,Miguel,4,F,Covid-19,cinco días,UCI,2024-04-23,No,Medellín
+P0162,Lucía,94,F,Diabetes,N/A días,Urgencias,2024-03-18,No,Cali
+P0163,Juan,23,M,Hipertensión,N/A días,UCI,2024-05-09,Sí,Barranquilla
+P0164,Lucía,15,F,Fractura,-1 días,Medicina Interna,2024-02-06,Sí,Pasto
+P0165,Diana,43,F,Hipertensión,26 días,Urgencias,2024-01-20,No,Medellín
+P0166,Ana,29,M,Covid-19,25 días,Medicina Interna,2024-01-26,No,Medellín
+P0167,Ana,36,F,Apendicitis,15 días,Pediatría,2024-01-29,No,Barranquilla
+P0168,Elena,13,M,Covid-19,10 días,Urgencias,2024-01-01,Sí,Bogotá
+P0169,Ana,32,F,Neumonía,14 días,Medicina Interna,2024-04-28,No,Pasto
+P0170,Andrés,71,M,Covid-19,20 días,Pediatría,2024-02-04,No,Medellín
+P0171,Carlos,59,M,Neumonía,tres días,UCI,2024-02-28,Sí,Pasto
+P0172,Carlos,86,M,Covid-19,7 días,Pediatría,2024-03-09,No,Medellín
+P0173,Elena,28,F,Neumonía,9 días,Cirugía,2024-06-09,Sí,Pasto
+P0174,Andrés,66,M,Fractura,6 días,Pediatría,2024-06-27,Sí,Cali
+P0175,Carlos,42,F,Hipertensión,18 días,Pediatría,2024-01-12,Sí,Medellín
+P0176,Miguel,45,M,Hipertensión,cinco días,Cirugía,2024-01-20,No,Pasto
+P0177,Andrés,62,M,Diabetes,23 días,Medicina Interna,2024-06-29,No,Bogotá
+P0178,Diana,57,F,Hipertensión,10 días,Medicina Interna,2024-02-12,Sí,Cali
+P0179,Luis,6,M,Apendicitis,N/A días,Pediatría,2024-05-05,No,Cali
+P0180,Lucía,28,M,Covid-19,23 días,Cirugía,2024-02-19,No,Bogotá
+P0181,Andrés,28,F,Diabetes,3 días,Cirugía,2024-01-29,No,Pasto
+P0182,Lucía,44,M,Apendicitis,30 días,UCI,2024-02-08,No,Barranquilla
+P0183,Miguel,84,M,Apendicitis,26 días,Medicina Interna,2024-06-19,Sí,Bogotá
+P0184,Luis,30,M,Neumonía,22 días,Urgencias,2024-06-26,No,Pasto
+P0185,Sara,62,M,Hipertensión,7 días,Medicina Interna,2024-05-30,Sí,Bogotá
+P0186,Elena,75,F,Fractura,18 días,Medicina Interna,2024-06-20,Sí,Bogotá
+P0187,Andrés,92,F,Fractura,5 días,UCI,2024-02-07,No,Medellín
+P0188,Elena,89,M,Diabetes,27 días,Urgencias,2024-03-24,Sí,Pasto
+P0189,Ana,62,F,Fractura,cinco días,UCI,2024-05-30,No,Barranquilla
+P0190,Lucía,97,M,Covid-19,N/A días,Urgencias,2024-05-07,No,Medellín
+P0191,Lucía,1,F,Fractura,27 días,Pediatría,2024-05-05,Sí,Bogotá
+P0192,Ana,27,M,Diabetes,10 días,Urgencias,2024-02-14,Sí,Bogotá
+P0193,Sara,62,M,Fractura,15 días,UCI,2024-02-21,Sí,Bogotá
+P0194,Juan,77,M,Covid-19,23 días,Medicina Interna,2024-03-20,Sí,Pasto
+P0195,Diana,3,M,Neumonía,9 días,Urgencias,2024-06-26,No,Pasto
+P0196,Andrés,70,M,Diabetes,16 días,Urgencias,2024-05-03,No,Medellín
+P0197,Lucía,72,M,Neumonía,20 días,Cirugía,2024-04-28,No,Barranquilla
+P0198,Diana,27,F,Neumonía,-1 días,Medicina Interna,2024-01-08,Sí,Medellín
+P0199,Lucía,9,M,Neumonía,20 días,Pediatría,2024-03-25,Sí,Cali
+P0200,Juan,62,F,Apendicitis,3 días,UCI,2024-05-08,Sí,Bogotá
+P0201,Ana,37,M,Hipertensión,22 días,Pediatría,2024-01-08,No,Bogotá
+P0202,Juan,97,F,Apendicitis,19 días,Medicina Interna,2024-06-05,Sí,Bogotá
+P0203,Lucía,51,F,Hipertensión,1 días,Urgencias,2024-04-05,No,Medellín
+P0204,Ana,44,F,Neumonía,22 días,Urgencias,2024-04-11,Sí,Medellín
+P0205,Juan,24,M,Diabetes,19 días,Medicina Interna,2024-01-05,No,Bogotá
+P0206,Sara,79,M,Hipertensión,N/A días,Urgencias,2024-03-26,No,Medellín
+P0207,Ana,59,F,Covid-19,21 días,Urgencias,2024-06-23,Sí,Pasto
+P0208,Andrés,32,M,Covid-19,9 días,Urgencias,2024-02-03,Sí,Pasto
+P0209,Lucía,96,F,Fractura,-1 días,UCI,2024-02-24,No,Medellín
+P0210,Miguel,88,M,Hipertensión,16 días,UCI,2024-04-28,No,Bogotá
+P0211,Elena,52,F,Diabetes,16 días,Cirugía,2024-06-19,Sí,Medellín
+P0212,Lucía,62,F,Apendicitis,11 días,Pediatría,2024-06-06,Sí,Medellín
+P0213,Andrés,58,M,Neumonía,4 días,Medicina Interna,2024-04-23,No,Medellín
+P0214,Carlos,52,F,Fractura,11 días,Medicina Interna,2024-05-24,Sí,Cali
+P0215,Diana,12,M,Covid-19,16 días,Medicina Interna,2024-01-26,No,Pasto
+P0216,Diana,39,F,Apendicitis,13 días,Cirugía,2024-05-15,No,Barranquilla
+P0217,Elena,2,F,Apendicitis,18 días,UCI,2024-02-16,Sí,Barranquilla
+P0218,Lucía,3,M,Neumonía,tres días,Cirugía,2024-04-22,Sí,Cali
+P0219,Elena,56,M,Hipertensión,11 días,Medicina Interna,2024-03-16,Sí,Medellín
+P0220,Luis,81,M,Covid-19,-1 días,Pediatría,2024-03-12,Sí,Cali
+P0221,Lucía,59,F,Diabetes,27 días,Urgencias,2024-03-29,Sí,Cali
+P0222,Ana,2,M,Apendicitis,22 días,UCI,2024-02-15,No,Bogotá
+P0223,Ana,2,F,Neumonía,15 días,UCI,2024-02-02,No,Pasto
+P0224,Luis,92,F,Diabetes,7 días,Cirugía,2024-01-01,Sí,Barranquilla
+P0225,Sara,54,M,Hipertensión,20 días,UCI,2024-05-26,Sí,Medellín
+P0226,Luis,87,M,Covid-19,21 días,Medicina Interna,2024-01-31,Sí,Barranquilla
+P0227,Luis,96,F,Hipertensión,2 días,Medicina Interna,2024-05-21,No,Barranquilla
+P0228,Elena,97,F,Apendicitis,18 días,Cirugía,2024-02-22,Sí,Pasto
+P0229,Juan,1,M,Diabetes,N/A días,Medicina Interna,2024-02-17,Sí,Barranquilla
+P0230,Ana,19,M,Diabetes,23 días,Pediatría,2024-03-09,No,Barranquilla
+P0231,Juan,2,M,Diabetes,1 días,Cirugía,2024-04-14,No,Cali
+P0232,Luis,53,M,Apendicitis,20 días,Pediatría,2024-03-30,Sí,Pasto
+P0233,Sara,44,M,Apendicitis,23 días,Urgencias,2024-03-03,Sí,Bogotá
+P0234,Ana,90,F,Hipertensión,dos días,Pediatría,2024-03-13,Sí,Medellín
+P0235,Lucía,32,F,Fractura,-1 días,Urgencias,2024-06-09,No,Barranquilla
+P0236,Lucía,70,F,Hipertensión,tres días,Urgencias,2024-06-17,Sí,Medellín
+P0237,Lucía,32,F,Covid-19,4 días,Pediatría,2024-03-29,Sí,Bogotá
+P0238,Andrés,68,M,Neumonía,5 días,Cirugía,2024-06-24,Sí,Medellín
+P0239,Elena,55,M,Diabetes,23 días,Medicina Interna,2024-01-13,No,Bogotá
+P0240,Carlos,75,M,Fractura,23 días,Medicina Interna,2024-03-13,No,Cali
+P0241,Luis,56,F,Neumonía,27 días,Urgencias,2024-03-17,Sí,Barranquilla
+P0242,Carlos,17,F,Fractura,16 días,Urgencias,2024-06-07,Sí,Bogotá
+P0243,Miguel,38,M,Hipertensión,18 días,Cirugía,2024-03-08,No,Medellín
+P0244,Elena,24,M,Apendicitis,N/A días,UCI,2024-04-07,No,Barranquilla
+P0245,Lucía,69,F,Diabetes,17 días,Pediatría,2024-05-04,No,Cali
+P0246,Ana,98,F,Hipertensión,5 días,Urgencias,2024-04-11,No,Barranquilla
+P0247,Elena,70,M,Neumonía,9 días,Medicina Interna,2024-05-11,No,Bogotá
+P0248,Andrés,86,M,Neumonía,28 días,Cirugía,2024-04-11,No,Cali
+P0249,Ana,11,F,Neumonía,30 días,Pediatría,2024-01-19,No,Medellín
+P0250,Juan,16,M,Neumonía,9 días,Cirugía,2024-03-22,No,Cali
+P0251,Andrés,97,M,Neumonía,10 días,Pediatría,2024-05-20,No,Cali
+P0252,Juan,73,M,Fractura,27 días,Pediatría,2024-01-23,Sí,Pasto
+P0253,Ana,59,F,Hipertensión,22 días,Urgencias,2024-03-23,Sí,Cali
+P0254,Lucía,70,F,Diabetes,5 días,Cirugía,2024-04-18,Sí,Cali
+P0255,Carlos,80,F,Apendicitis,16 días,Cirugía,2024-03-15,No,Barranquilla
+P0256,Luis,93,F,Apendicitis,18 días,Medicina Interna,2024-05-08,Sí,Medellín
+P0257,Elena,3,F,Hipertensión,13 días,Medicina Interna,2024-03-28,No,Barranquilla
+P0258,Elena,20,F,Hipertensión,11 días,Urgencias,2024-02-23,No,Barranquilla
+P0259,Lucía,59,F,Apendicitis,23 días,Urgencias,2024-03-29,Sí,Bogotá
+P0260,Luis,36,M,Apendicitis,13 días,UCI,2024-05-22,No,Barranquilla
+P0261,Juan,19,M,Fractura,25 días,Medicina Interna,2024-03-05,Sí,Pasto
+P0262,Carlos,90,M,Covid-19,11 días,Pediatría,2024-03-16,Sí,Pasto
+P0263,Luis,67,M,Diabetes,23 días,Cirugía,2024-05-22,Sí,Bogotá
+P0264,Juan,19,M,Neumonía,13 días,Urgencias,2024-05-28,No,Medellín
+P0265,Luis,20,M,Covid-19,22 días,Cirugía,2024-05-26,Sí,Medellín
+P0266,Miguel,96,M,Hipertensión,21 días,Cirugía,2024-02-29,No,Barranquilla
+P0267,Elena,71,F,Apendicitis,16 días,UCI,2024-04-02,Sí,Barranquilla
+P0268,Miguel,52,F,Covid-19,5 días,Medicina Interna,2024-06-09,Sí,Barranquilla
+P0269,Luis,33,M,Diabetes,19 días,Urgencias,2024-02-18,Sí,Medellín
+P0270,Andrés,40,M,Hipertensión,4 días,Cirugía,2024-02-04,No,Cali
+P0271,Elena,39,F,Neumonía,15 días,Urgencias,2024-06-20,No,Pasto
+P0272,Carlos,82,M,Neumonía,0 días,Pediatría,2024-04-11,No,Cali
+P0273,Lucía,1,M,Diabetes,N/A días,UCI,2024-01-11,Sí,Cali
+P0274,Miguel,11,F,Diabetes,21 días,Pediatría,2024-04-08,Sí,Medellín
+P0275,Lucía,92,M,Apendicitis,3 días,Urgencias,2024-04-19,No,Cali
+P0276,Juan,57,F,Neumonía,9 días,Urgencias,2024-03-14,No,Bogotá
+P0277,Diana,89,M,Hipertensión,23 días,Medicina Interna,2024-06-22,No,Barranquilla
+P0278,Andrés,50,F,Covid-19,3 días,Cirugía,2024-01-09,No,Bogotá
+P0279,Juan,23,F,Hipertensión,28 días,Cirugía,2024-01-03,No,Pasto
+P0280,Sara,31,F,Fractura,18 días,Pediatría,2024-03-25,No,Barranquilla
+P0281,Juan,94,M,Fractura,11 días,UCI,2024-01-26,Sí,Cali
+P0282,Juan,42,F,Diabetes,29 días,Cirugía,2024-03-12,No,Pasto
+P0283,Diana,99,M,Apendicitis,28 días,Medicina Interna,2024-02-17,Sí,Barranquilla
+P0284,Elena,7,M,Fractura,20 días,Pediatría,2024-06-04,Sí,Cali
+P0285,Andrés,16,M,Neumonía,N/A días,Pediatría,2024-04-26,No,Bogotá
+P0286,Andrés,90,M,Hipertensión,24 días,Medicina Interna,2024-06-02,No,Barranquilla
+P0287,Carlos,60,F,Hipertensión,tres días,UCI,2024-06-01,Sí,Cali
+P0288,Juan,2,F,Diabetes,23 días,Medicina Interna,2024-01-12,No,Bogotá
+P0289,Andrés,1,M,Covid-19,15 días,UCI,2024-05-12,No,Pasto
+P0290,Ana,48,M,Diabetes,N/A días,Medicina Interna,2024-02-17,Sí,Pasto
+P0291,Carlos,12,F,Covid-19,2 días,Medicina Interna,2024-02-06,Sí,Pasto
+P0292,Ana,69,M,Diabetes,2 días,Urgencias,2024-02-13,Sí,Pasto
+P0293,Diana,37,F,Diabetes,12 días,Pediatría,2024-01-15,No,Medellín
+P0294,Ana,32,M,Diabetes,8 días,Medicina Interna,2024-02-12,Sí,Barranquilla
+P0295,Lucía,9,M,Covid-19,19 días,Medicina Interna,2024-06-24,No,Barranquilla
+P0296,Luis,99,F,Covid-19,6 días,Cirugía,2024-03-27,Sí,Medellín
+P0297,Ana,19,M,Diabetes,tres días,Pediatría,2024-03-10,Sí,Cali
+P0298,Diana,48,F,Fractura,13 días,Cirugía,2024-02-15,Sí,Cali
+P0299,Lucía,80,M,Apendicitis,8 días,Pediatría,2024-04-17,No,Pasto
+P0300,Diana,3,M,Apendicitis,19 días,Cirugía,2024-05-02,No,Bogotá
+P0301,Diana,20,M,Apendicitis,0 días,Medicina Interna,2024-06-19,Sí,Cali
+P0302,Juan,24,F,Covid-19,15 días,Medicina Interna,2024-01-21,Sí,Bogotá
+P0303,Diana,54,M,Covid-19,1 días,Urgencias,2024-05-30,Sí,Barranquilla
+P0304,Ana,33,M,Fractura,15 días,Cirugía,2024-04-16,No,Bogotá
+P0305,Luis,24,M,Apendicitis,22 días,UCI,2024-03-20,Sí,Barranquilla
+P0306,Diana,75,M,Apendicitis,3 días,Urgencias,2024-02-16,No,Medellín
+P0307,Diana,72,F,Diabetes,12 días,Cirugía,2024-04-26,Sí,Medellín
+P0308,Andrés,36,F,Covid-19,10 días,Cirugía,2024-05-03,Sí,Pasto
+P0309,Sara,38,M,Apendicitis,14 días,Urgencias,2024-05-22,Sí,Cali
+P0310,Miguel,84,F,Hipertensión,15 días,Medicina Interna,2024-01-25,Sí,Pasto
+P0311,Lucía,99,M,Fractura,7 días,Cirugía,2024-02-05,Sí,Barranquilla
+P0312,Sara,89,M,Hipertensión,28 días,Medicina Interna,2024-02-20,Sí,Pasto
+P0313,Lucía,99,M,Hipertensión,8 días,Urgencias,2024-01-15,No,Bogotá
+P0314,Miguel,25,F,Fractura,12 días,Medicina Interna,2024-03-08,Sí,Barranquilla
+P0315,Luis,93,F,Hipertensión,23 días,Pediatría,2024-01-21,No,Medellín
+P0316,Carlos,18,F,Apendicitis,27 días,UCI,2024-05-20,Sí,Cali
+P0317,Miguel,82,F,Covid-19,9 días,Cirugía,2024-01-19,Sí,Barranquilla
+P0318,Elena,66,F,Fractura,cinco días,UCI,2024-02-03,No,Barranquilla
+P0319,Sara,54,F,Diabetes,24 días,Medicina Interna,2024-03-18,Sí,Bogotá
+P0320,Ana,35,F,Hipertensión,29 días,Cirugía,2024-05-04,No,Cali
+P0321,Juan,80,F,Fractura,25 días,Medicina Interna,2024-04-26,No,Medellín
+P0322,Elena,61,F,Neumonía,20 días,Pediatría,2024-02-21,Sí,Barranquilla
+P0323,Diana,41,M,Neumonía,8 días,Urgencias,2024-01-27,No,Barranquilla
+P0324,Diana,33,F,Covid-19,20 días,Cirugía,2024-06-05,No,Bogotá
+P0325,Ana,68,F,Apendicitis,25 días,Pediatría,2024-06-04,Sí,Pasto
+P0326,Ana,33,F,Covid-19,22 días,Pediatría,2024-02-04,No,Medellín
+P0327,Andrés,14,F,Covid-19,5 días,Cirugía,2024-05-15,Sí,Cali
+P0328,Lucía,21,F,Covid-19,29 días,Medicina Interna,2024-05-23,Sí,Barranquilla
+P0329,Andrés,48,F,Covid-19,2 días,Pediatría,2024-04-15,Sí,Barranquilla
+P0330,Miguel,20,F,Diabetes,15 días,UCI,2024-06-12,Sí,Medellín
+P0331,Carlos,8,F,Diabetes,-5 días,Pediatría,2024-06-06,No,Pasto
+P0332,Sara,7,F,Fractura,3 días,Medicina Interna,2024-05-25,Sí,Barranquilla
+P0333,Ana,67,F,Neumonía,11 días,Medicina Interna,2024-01-02,Sí,Medellín
+P0334,Lucía,17,F,Covid-19,6 días,UCI,2024-06-25,No,Bogotá
+P0335,Sara,33,M,Fractura,26 días,Pediatría,2024-03-17,Sí,Pasto
+P0336,Miguel,48,M,Neumonía,12 días,Medicina Interna,2024-05-11,Sí,Cali
+P0337,Carlos,76,F,Hipertensión,30 días,Cirugía,2024-03-30,No,Barranquilla
+P0338,Elena,59,F,Apendicitis,6 días,Urgencias,2024-03-29,No,Medellín
+P0339,Andrés,86,M,Diabetes,27 días,Urgencias,2024-04-03,No,Bogotá
+P0340,Miguel,22,F,Hipertensión,26 días,Urgencias,2024-01-07,No,Cali
+P0341,Diana,30,M,Neumonía,28 días,Pediatría,2024-04-04,No,Medellín
+P0342,Andrés,38,M,Hipertensión,4 días,UCI,2024-04-17,No,Medellín
+P0343,Juan,51,M,Apendicitis,3 días,Medicina Interna,2024-03-14,No,Cali
+P0344,Andrés,54,M,Neumonía,N/A días,Cirugía,2024-02-08,Sí,Bogotá
+P0345,Miguel,8,M,Hipertensión,24 días,Cirugía,2024-05-20,No,Bogotá
+P0346,Ana,27,F,Diabetes,13 días,Pediatría,2024-06-07,No,Pasto
+P0347,Carlos,27,M,Diabetes,26 días,Urgencias,2024-03-11,No,Barranquilla
+P0348,Miguel,98,F,Fractura,3 días,Pediatría,2024-02-25,Sí,Cali
+P0349,Ana,21,F,Hipertensión,1 días,UCI,2024-06-18,Sí,Cali
+P0350,Ana,30,M,Covid-19,4 días,UCI,2024-02-11,No,Cali
+P0351,Andrés,97,M,Hipertensión,22 días,Medicina Interna,2024-02-05,No,Bogotá
+P0352,Carlos,28,F,Neumonía,9 días,Medicina Interna,2024-03-24,No,Barranquilla
+P0353,Miguel,64,M,Neumonía,27 días,UCI,2024-04-27,Sí,Pasto
+P0354,Miguel,97,M,Hipertensión,12 días,UCI,2024-01-07,Sí,Medellín
+P0355,Diana,69,F,Apendicitis,N/A días,UCI,2024-02-23,No,Medellín
+P0356,Lucía,61,F,Diabetes,20 días,Pediatría,2024-05-08,Sí,Cali
+P0357,Sara,48,M,Neumonía,18 días,UCI,2024-06-20,No,Barranquilla
+P0358,Lucía,19,F,Diabetes,20 días,Cirugía,2024-04-29,Sí,Bogotá
+P0359,Miguel,4,M,Neumonía,3 días,Urgencias,2024-06-21,Sí,Barranquilla
+P0360,Andrés,35,M,Fractura,15 días,UCI,2024-04-15,No,Barranquilla
+P0361,Elena,64,M,Covid-19,10 días,Urgencias,2024-02-16,No,Bogotá
+P0362,Miguel,49,F,Neumonía,4 días,Pediatría,2024-05-02,No,Cali
+P0363,Juan,17,F,Diabetes,cinco días,Urgencias,2024-05-20,No,Barranquilla
+P0364,Ana,44,F,Fractura,16 días,Pediatría,2024-04-28,Sí,Medellín
+P0365,Luis,92,F,Neumonía,N/A días,Cirugía,2024-05-29,Sí,Bogotá
+P0366,Miguel,30,F,Apendicitis,5 días,Pediatría,2024-04-27,Sí,Pasto
+P0367,Juan,93,M,Covid-19,12 días,Pediatría,2024-01-21,No,Cali
+P0368,Juan,46,M,Neumonía,24 días,Medicina Interna,2024-05-16,Sí,Bogotá
+P0369,Sara,6,M,Fractura,18 días,UCI,2024-01-26,No,Pasto
+P0370,Carlos,99,M,Apendicitis,24 días,UCI,2024-01-09,Sí,Pasto
+P0371,Miguel,37,F,Hipertensión,29 días,Cirugía,2024-01-15,No,Barranquilla
+P0372,Carlos,24,M,Fractura,4 días,Cirugía,2024-01-10,No,Barranquilla
+P0373,Elena,93,F,Fractura,20 días,UCI,2024-05-01,Sí,Barranquilla
+P0374,Andrés,46,M,Apendicitis,9 días,Medicina Interna,2024-04-30,No,Bogotá
+P0375,Luis,53,F,Fractura,-5 días,UCI,2024-05-04,No,Bogotá
+P0376,Andrés,95,F,Apendicitis,15 días,Medicina Interna,2024-06-18,Sí,Cali
+P0377,Juan,99,M,Neumonía,28 días,Cirugía,2024-03-12,No,Barranquilla
+P0378,Ana,60,M,Apendicitis,22 días,Urgencias,2024-05-31,No,Pasto
+P0379,Ana,97,M,Apendicitis,29 días,Cirugía,2024-02-18,No,Medellín
+P0380,Carlos,63,M,Covid-19,12 días,Cirugía,2024-06-02,Sí,Cali
+P0381,Andrés,85,F,Apendicitis,N/A días,Pediatría,2024-03-31,Sí,Bogotá
+P0382,Juan,32,M,Apendicitis,tres días,Pediatría,2024-02-06,No,Cali
+P0383,Sara,87,M,Hipertensión,27 días,Pediatría,2024-03-08,Sí,Cali
+P0384,Diana,33,F,Neumonía,22 días,Pediatría,2024-02-19,No,Cali
+P0385,Andrés,67,M,Covid-19,21 días,Medicina Interna,2024-05-31,No,Cali
+P0386,Carlos,18,M,Hipertensión,1 días,UCI,2024-01-19,No,Medellín
+P0387,Luis,25,M,Diabetes,-5 días,Urgencias,2024-04-09,No,Barranquilla
+P0388,Carlos,95,M,Neumonía,5 días,Cirugía,2024-02-29,No,Pasto
+P0389,Juan,54,M,Neumonía,7 días,Medicina Interna,2024-06-15,Sí,Cali
+P0390,Miguel,58,F,Diabetes,dos días,Urgencias,2024-03-29,No,Cali
+P0391,Sara,67,M,Apendicitis,7 días,Medicina Interna,2024-05-25,Sí,Cali
+P0392,Juan,46,M,Hipertensión,8 días,Medicina Interna,2024-05-26,Sí,Barranquilla
+P0393,Sara,24,M,Fractura,5 días,Cirugía,2024-06-12,No,Bogotá
+P0394,Lucía,32,M,Covid-19,20 días,UCI,2024-03-09,No,Bogotá
+P0395,Lucía,47,M,Fractura,N/A días,Pediatría,2024-06-23,Sí,Medellín
+P0396,Ana,86,F,Diabetes,18 días,UCI,2024-02-18,Sí,Bogotá
+P0397,Sara,23,M,Neumonía,6 días,Cirugía,2024-04-17,Sí,Cali
+P0398,Andrés,66,F,Neumonía,cinco días,Cirugía,2024-06-09,No,Cali
+P0399,Luis,27,F,Covid-19,-5 días,Cirugía,2024-04-28,Sí,Cali
+P0400,Diana,2,M,Neumonía,8 días,Urgencias,2024-05-28,No,Medellín
+P0401,Carlos,90,M,Neumonía,1 días,UCI,2024-05-29,No,Cali
+P0402,Lucía,17,M,Covid-19,cinco días,UCI,2024-06-24,No,Bogotá
+P0403,Carlos,33,M,Hipertensión,-1 días,Medicina Interna,2024-02-06,Sí,Barranquilla
+P0404,Carlos,9,F,Hipertensión,24 días,Medicina Interna,2024-05-22,No,Barranquilla
+P0405,Luis,43,M,Covid-19,0 días,Medicina Interna,2024-06-11,No,Pasto
+P0406,Juan,48,M,Diabetes,17 días,Cirugía,2024-06-08,No,Bogotá
+P0407,Carlos,39,M,Neumonía,15 días,UCI,2024-01-11,No,Cali
+P0408,Sara,93,M,Neumonía,20 días,Cirugía,2024-05-17,No,Barranquilla
+P0409,Luis,42,M,Diabetes,dos días,Urgencias,2024-03-18,Sí,Bogotá
+P0410,Lucía,26,M,Hipertensión,21 días,Medicina Interna,2024-03-17,No,Barranquilla
+P0411,Miguel,99,F,Apendicitis,2 días,Cirugía,2024-06-01,No,Cali
+P0412,Carlos,50,F,Apendicitis,28 días,Cirugía,2024-01-02,Sí,Barranquilla
+P0413,Ana,25,M,Apendicitis,22 días,Urgencias,2024-03-04,No,Pasto
+P0414,Luis,24,M,Hipertensión,0 días,Pediatría,2024-02-04,Sí,Pasto
+P0415,Juan,13,M,Hipertensión,tres días,UCI,2024-01-07,No,Barranquilla
+P0416,Elena,60,F,Diabetes,5 días,Pediatría,2024-03-25,Sí,Bogotá
+P0417,Lucía,7,M,Neumonía,N/A días,Medicina Interna,2024-05-25,Sí,Bogotá
+P0418,Lucía,57,F,Diabetes,19 días,Cirugía,2024-03-07,No,Bogotá
+P0419,Elena,36,M,Diabetes,11 días,Urgencias,2024-02-11,No,Barranquilla
+P0420,Sara,45,M,Hipertensión,20 días,Urgencias,2024-04-27,No,Bogotá
+P0421,Miguel,20,M,Apendicitis,15 días,UCI,2024-05-04,Sí,Cali
+P0422,Lucía,65,M,Fractura,14 días,Pediatría,2024-06-15,Sí,Pasto
+P0423,Lucía,8,F,Neumonía,tres días,UCI,2024-06-17,Sí,Cali
+P0424,Juan,16,F,Hipertensión,21 días,Cirugía,2024-01-24,No,Bogotá
+P0425,Lucía,14,M,Apendicitis,18 días,UCI,2024-02-15,Sí,Cali
+P0426,Luis,76,M,Fractura,7 días,Urgencias,2024-01-19,Sí,Bogotá
+P0427,Sara,87,F,Fractura,29 días,Urgencias,2024-03-08,No,Barranquilla
+P0428,Miguel,15,F,Hipertensión,11 días,Medicina Interna,2024-04-11,Sí,Cali
+P0429,Ana,92,F,Covid-19,13 días,Medicina Interna,2024-02-11,Sí,Barranquilla
+P0430,Miguel,98,F,Neumonía,4 días,Cirugía,2024-02-01,No,Barranquilla
+P0431,Sara,66,M,Fractura,11 días,Pediatría,2024-06-15,Sí,Medellín
+P0432,Andrés,32,F,Hipertensión,12 días,UCI,2024-04-18,No,Bogotá
+P0433,Luis,87,M,Hipertensión,22 días,Cirugía,2024-02-05,No,Pasto
+P0434,Andrés,63,F,Apendicitis,3 días,Medicina Interna,2024-04-06,No,Bogotá
+P0435,Sara,86,F,Covid-19,tres días,UCI,2024-06-12,No,Pasto
+P0436,Juan,51,F,Neumonía,tres días,Medicina Interna,2024-05-10,No,Bogotá
+P0437,Ana,25,F,Diabetes,12 días,UCI,2024-03-13,Sí,Barranquilla
+P0438,Miguel,58,F,Apendicitis,18 días,Pediatría,2024-05-15,Sí,Cali
+P0439,Carlos,63,M,Fractura,dos días,Cirugía,2024-04-06,No,Cali
+P0440,Diana,62,M,Fractura,22 días,UCI,2024-05-02,No,Medellín
+P0441,Miguel,22,F,Apendicitis,-5 días,Urgencias,2024-03-10,Sí,Pasto
+P0442,Juan,58,F,Hipertensión,25 días,Urgencias,2024-06-17,No,Pasto
+P0443,Ana,58,M,Fractura,30 días,UCI,2024-01-13,No,Pasto
+P0444,Diana,86,F,Covid-19,10 días,UCI,2024-02-18,No,Barranquilla
+P0445,Luis,49,F,Neumonía,12 días,UCI,2024-02-29,Sí,Pasto
+P0446,Sara,52,M,Covid-19,dos días,Urgencias,2024-05-09,Sí,Cali
+P0447,Sara,42,F,Fractura,22 días,Urgencias,2024-01-05,No,Barranquilla
+P0448,Luis,70,F,Diabetes,28 días,UCI,2024-06-20,No,Bogotá
+P0449,Diana,15,M,Neumonía,dos días,Medicina Interna,2024-01-27,Sí,Pasto
+P0450,Andrés,54,M,Neumonía,25 días,Medicina Interna,2024-06-08,Sí,Pasto
+P0451,Ana,60,M,Apendicitis,8 días,Pediatría,2024-05-28,No,Bogotá
+P0452,Luis,97,F,Apendicitis,28 días,Cirugía,2024-01-08,No,Pasto
+P0453,Diana,8,M,Diabetes,25 días,Medicina Interna,2024-02-19,Sí,Bogotá
+P0454,Lucía,53,M,Hipertensión,20 días,Urgencias,2024-03-07,Sí,Barranquilla
+P0455,Miguel,60,M,Neumonía,18 días,Medicina Interna,2024-02-13,Sí,Cali
+P0456,Juan,5,M,Diabetes,N/A días,Pediatría,2024-05-04,No,Bogotá
+P0457,Luis,68,M,Apendicitis,N/A días,Pediatría,2024-02-27,Sí,Medellín
+P0458,Juan,6,M,Apendicitis,10 días,Cirugía,2024-01-03,No,Bogotá
+P0459,Andrés,96,F,Neumonía,12 días,Medicina Interna,2024-03-26,Sí,Pasto
+P0460,Andrés,94,F,Covid-19,N/A días,Urgencias,2024-03-10,Sí,Barranquilla
+P0461,Lucía,47,M,Fractura,13 días,Urgencias,2024-05-09,Sí,Barranquilla
+P0462,Sara,99,M,Apendicitis,cinco días,UCI,2024-06-20,Sí,Bogotá
+P0463,Luis,55,M,Hipertensión,dos días,Urgencias,2024-01-02,No,Cali
+P0464,Ana,40,F,Hipertensión,14 días,Cirugía,2024-04-11,No,Medellín
+P0465,Sara,52,F,Apendicitis,6 días,Cirugía,2024-02-04,Sí,Barranquilla
+P0466,Diana,16,F,Covid-19,24 días,Urgencias,2024-04-07,No,Pasto
+P0467,Sara,13,F,Covid-19,19 días,Urgencias,2024-01-30,Sí,Pasto
+P0468,Ana,30,F,Diabetes,29 días,UCI,2024-04-25,Sí,Cali
+P0469,Miguel,19,F,Hipertensión,N/A días,Urgencias,2024-01-08,Sí,Barranquilla
+P0470,Andrés,17,F,Diabetes,2 días,UCI,2024-05-29,Sí,Bogotá
+P0471,Miguel,63,F,Hipertensión,9 días,UCI,2024-02-13,No,Pasto
+P0472,Luis,19,F,Fractura,14 días,Urgencias,2024-02-05,Sí,Cali
+P0473,Sara,92,M,Fractura,15 días,Pediatría,2024-03-17,Sí,Barranquilla
+P0474,Luis,58,M,Neumonía,7 días,Pediatría,2024-01-31,No,Barranquilla
+P0475,Miguel,55,M,Diabetes,4 días,UCI,2024-02-16,Sí,Barranquilla
+P0476,Andrés,90,M,Apendicitis,4 días,Urgencias,2024-02-24,Sí,Barranquilla
+P0477,Carlos,90,F,Diabetes,22 días,Pediatría,2024-04-15,Sí,Barranquilla
+P0478,Lucía,62,F,Apendicitis,17 días,Urgencias,2024-06-06,No,Pasto
+P0479,Luis,23,M,Covid-19,2 días,Urgencias,2024-04-30,Sí,Cali
+P0480,Luis,9,F,Diabetes,20 días,Urgencias,2024-02-24,No,Barranquilla
+P0481,Carlos,12,M,Covid-19,N/A días,Medicina Interna,2024-05-23,Sí,Medellín
+P0482,Diana,1,F,Fractura,7 días,Urgencias,2024-01-12,Sí,Medellín
+P0483,Diana,58,M,Fractura,25 días,Medicina Interna,2024-05-24,No,Cali
+P0484,Miguel,1,F,Neumonía,11 días,UCI,2024-05-23,Sí,Bogotá
+P0485,Luis,34,F,Diabetes,0 días,Pediatría,2024-05-19,Sí,Bogotá
+P0486,Andrés,96,M,Covid-19,6 días,Pediatría,2024-05-15,No,Bogotá
+P0487,Juan,48,F,Apendicitis,dos días,Pediatría,2024-01-03,No,Medellín
+P0488,Miguel,89,M,Fractura,17 días,Pediatría,2024-05-23,No,Bogotá
+P0489,Miguel,1,M,Fractura,22 días,Pediatría,2024-01-30,No,Pasto
+P0490,Lucía,16,M,Apendicitis,3 días,Pediatría,2024-01-23,No,Barranquilla
+P0491,Luis,61,M,Covid-19,24 días,Pediatría,2024-04-01,Sí,Medellín
+P0492,Diana,64,F,Covid-19,cinco días,UCI,2024-04-24,No,Cali
+P0493,Diana,63,F,Diabetes,3 días,Urgencias,2024-04-13,Sí,Cali
+P0494,Sara,69,F,Diabetes,19 días,Cirugía,2024-04-27,Sí,Barranquilla
+P0495,Elena,22,M,Hipertensión,13 días,Medicina Interna,2024-01-05,Sí,Medellín
+P0496,Elena,93,F,Hipertensión,14 días,Cirugía,2024-04-13,No,Bogotá
+P0497,Elena,67,M,Neumonía,13 días,Cirugía,2024-04-17,No,Bogotá
+P0498,Lucía,76,F,Fractura,-5 días,Urgencias,2024-03-05,Sí,Pasto
+P0499,Andrés,26,F,Diabetes,0 días,Urgencias,2024-04-30,No,Pasto
+P0500,Elena,16,F,Covid-19,30 días,Urgencias,2024-01-30,No,Bogotá
