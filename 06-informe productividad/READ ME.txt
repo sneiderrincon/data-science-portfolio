@@ -1,0 +1,37 @@
+# Dashboard de Productividad 📊
+
+Este repositorio contiene un análisis de productividad desarrollado en **Power BI**, utilizando datos contenidos en un archivo de Excel.  
+El objetivo es proveer una herramienta visual e interactiva para el seguimiento del rendimiento y la toma de decisiones estratégicas.
+
+---
+
+## 📂 Contenido del repositorio
+
+- **`Productividad.xlsx`** → Archivo fuente con los datos de productividad.
+- **`informe productividad.pbix`** → Reporte en Power BI con visualizaciones interactivas.
+- **`Fondo Dashboard Productividad.png`** → Imagen de fondo utilizada para el diseño del dashboard.
+- **README.md** → Documento descriptivo del proyecto.
+
+---
+
+## 🚀 Características del Dashboard
+
+- Visualización de **tendencias de productividad** en el tiempo.  
+- Indicadores clave (KPI) de rendimiento.  
+- Comparación entre diferentes periodos y categorías.  
+- Diseño visual optimizado con fondo personalizado.  
+
+---
+
+## 🛠️ Requisitos
+
+Para visualizar y editar el reporte necesitarás:
+
+- [Power BI Desktop](https://powerbi.microsoft.com/es-es/desktop/) (gratis)  
+- Microsoft Excel (para revisar los datos fuente)
+
+---
+
+## 📸 Vista previa
+
+![Dashboard Productividad](Fondo%20Dashboard%20Productividad.png)
